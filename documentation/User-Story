@@ -1,0 +1,33 @@
+Must be an authenticated user to use site.
+
+As an admin I can:
+    - * Get all students within the school *
+    - * Get student info for all students *
+    - * Click the plus button to add a new student *
+    - Get students by last name
+
+    - Get students' discipline records
+    - Add a new discipline record
+    - * Delete discipline records *
+    - Get students' attendance records
+    - Get students' parent info
+    - * Click the delete button to remove students *
+
+    - * See all teachers *
+    - * See teacher info *
+    - * See all students within each teacher's class *
+    - * Click the plus button to add a new teacher *
+    - * Click the delete button to remove teachers *
+
+
+As a teacher I can:
+    - Get all the students assigned to my class
+    - Get students by last name
+    - Get student info for my students
+
+    - Get students' discipline records
+    - Add a new discipline record
+    - Get students' attendance records
+    - Get students' parent info
+    
+
